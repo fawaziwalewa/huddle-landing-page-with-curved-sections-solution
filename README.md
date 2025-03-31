@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100)
+- Solution URL: [View my solution on Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections---tailwindcss-oE_DkitQRR)
 - Live Site URL: [Live preview](https://fawaziwalewa.github.io/huddle-landing-page-with-curved-sections-solution/)
 
 ## My Process
